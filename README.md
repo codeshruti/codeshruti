@@ -4,7 +4,9 @@
 
 Welcome to my Github Profile !
 
-This is S Shruti, an aspiring Machine Learning Engineer. I am currently working with Data Science libraries and Deep learning projects. Interested in IOT projects.
+This is S Shruti, an aspiring Machine Learning Engineer. I am currently working with Data Science libraries and Deep learning projects.
+
+I have completed the Open Source Software specialization from Linux Foundation.
 
 :syringe: Medicine has been my biggest pet peeve!
 
