@@ -8,6 +8,8 @@ This is S Shruti, an aspiring Machine Learning Engineer. I am currently working 
 
 I am interested in working on Research papers.
 
+Participating in GSSOC'21.
+
 :syringe: Medicine has been my biggest pet peeve!
 
 :v: Successfully completed Hacktoberfest 2020.
