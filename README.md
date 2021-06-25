@@ -6,7 +6,7 @@ Welcome to my Github Profile !
 
 This is S Shruti, an aspiring Machine Learning Engineer. I am currently working with Data Science libraries and Deep learning projects.
 
-I am interested in working on Research papers.
+I am interested in working on Research papers and open source projects.
 
 Participating in GSSOC'21.
 
