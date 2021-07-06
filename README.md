@@ -8,9 +8,7 @@ This is S Shruti, an aspiring Machine Learning Engineer. I am currently working 
 
 I am interested in working on Research papers and open source projects.
 
-Participating in GSSOC'21.
-
-:v: Successfully completed Hacktoberfest 2020.
+:v: Successfully completed Hacktoberfest 2020 and GSSOC'21.
 
 Technology Stack:
 
