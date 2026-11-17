@@ -4,7 +4,7 @@
 
 Welcome to my Github Profile !
 
-This is S Shruti, an aspiring Machine Learning Engineer. I am currently working with Data Science libraries and Deep learning projects.
+This is S Shruti, an Applied AI Engineer. I am currently building Agentic Systems and love researching new applications.
 
 Working towards improving my skills :v: 
 
